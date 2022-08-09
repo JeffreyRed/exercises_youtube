@@ -1,0 +1,4 @@
+﻿  DataTypeCPlus.cpp
+C:\Users\jeff_\Desktop\Online Course Project\Course in English\04 Data Type\DataTypeCPlus\DataTypeCPlus\DataTypeCPlus.cpp(13,46): warning C4307: '*': signed integral constant overflow
+C:\Users\jeff_\Desktop\Online Course Project\Course in English\04 Data Type\DataTypeCPlus\DataTypeCPlus\DataTypeCPlus.cpp(16,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+  DataTypeCPlus.vcxproj -> C:\Users\jeff_\Desktop\Online Course Project\Course in English\04 Data Type\DataTypeCPlus\Debug\DataTypeCPlus.exe

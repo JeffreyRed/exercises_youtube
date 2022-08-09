@@ -1,0 +1,7 @@
+C:\Users\jeff_\source\repos\DataTypeCSharp\DataTypeCSharp\bin\Debug\DataTypeCSharp.exe.config
+C:\Users\jeff_\source\repos\DataTypeCSharp\DataTypeCSharp\bin\Debug\DataTypeCSharp.exe
+C:\Users\jeff_\source\repos\DataTypeCSharp\DataTypeCSharp\bin\Debug\DataTypeCSharp.pdb
+C:\Users\jeff_\source\repos\DataTypeCSharp\DataTypeCSharp\obj\Debug\DataTypeCSharp.csprojAssemblyReference.cache
+C:\Users\jeff_\source\repos\DataTypeCSharp\DataTypeCSharp\obj\Debug\DataTypeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\jeff_\source\repos\DataTypeCSharp\DataTypeCSharp\obj\Debug\DataTypeCSharp.exe
+C:\Users\jeff_\source\repos\DataTypeCSharp\DataTypeCSharp\obj\Debug\DataTypeCSharp.pdb
